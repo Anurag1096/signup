@@ -3,8 +3,6 @@ import "./App.css";
 import Container from "./components/Container";
 import Login from "./components/Login";
 import Signup from "./components/Signup";
-import Route1 from "./components/Route1";
-import Header from "./components/Header";
 import { AuthProvider } from "./context/AuthContext";
 import Dashboard from "./components/Dashboard";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
