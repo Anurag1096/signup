@@ -1,0 +1,11 @@
+.sizee {
+  width: 300px;
+  margin-top: 70px;
+  background-color: white;
+  padding: 20px;
+  border: 1px solid;
+  border-radius: 10px;
+}
+.cur {
+  cursor: pointer;
+}
